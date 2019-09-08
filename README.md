@@ -1,2 +1,2 @@
-# cache
-a high performance cache in go
+# Go-cache
+a High Performance Distributed Cache in Golang
